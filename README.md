@@ -1,1 +1,2 @@
-# ATIVIDADE-GIT-2-BI
+# ATIVIDADE-GIT-2-
+I love Éron
